@@ -1,0 +1,19 @@
+{
+  "curtains": [
+    {
+      "id": 1,
+      "name": "现代简约窗帘",
+      "description": "简约大方的设计风格，适合现代家居",
+      "price": 299.99,
+      "image": "curtain1.jpg",
+      "category": "现代简约"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "现代简约",
+      "description": "简约时尚的现代风格"
+    }
+  ]
+}

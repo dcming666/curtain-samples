@@ -1,0 +1,18 @@
+{
+  "curtains": [
+    {
+      "id": 1,
+      "name": "样例窗帘1",
+      "description": "这是一个样例窗帘",
+      "price": 199.99,
+      "image": "curtain1.jpg",
+      "category": "现代简约"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "现代简约"
+    }
+  ]
+}
